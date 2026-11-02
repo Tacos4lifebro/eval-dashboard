@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2026-11-01T23:11:23.715887",
+    "agent": "support-agent",
+    "task": "refund question",
+    "accuracy": 0.95,
+    "cost": 0.002,
+    "latency": 1.5,
+    "notes": "matched policy"
+  },
+  {
+    "timestamp": "2026-11-01T23:11:23.747104",
+    "agent": "support-agent",
+    "task": "api integration",
+    "accuracy": 0.0,
+    "cost": 0.001,
+    "latency": 0.8,
+    "notes": "correctly escalated"
+  },
+  {
+    "timestamp": "2026-11-01T23:11:23.776477",
+    "agent": "support-agent",
+    "task": "shipping question",
+    "accuracy": 0.8,
+    "cost": 0.002,
+    "latency": 1.2,
+    "notes": "matched shipping"
+  },
+  {
+    "timestamp": "2026-11-01T23:11:23.805737",
+    "agent": "browser-agent",
+    "task": "form fill",
+    "accuracy": 1.0,
+    "cost": 0.0,
+    "latency": 0.0,
+    "notes": "demo success"
+  },
+  {
+    "timestamp": "2026-11-01T23:11:23.835109",
+    "agent": "browser-agent",
+    "task": "live form fill",
+    "accuracy": 0.7,
+    "cost": 0.0,
+    "latency": 3.0,
+    "notes": "partial fill"
+  },
+  {
+    "timestamp": "2026-11-01T23:11:23.864517",
+    "agent": "eval-dashboard",
+    "task": "report generation",
+    "accuracy": 1.0,
+    "cost": 0.0,
+    "latency": 0.1,
+    "notes": "report works"
+  }
+]
